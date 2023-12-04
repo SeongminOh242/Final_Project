@@ -12,3 +12,8 @@ https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 
 Pittsburgh Police Arrest Data
 https://data.wprdc.org/dataset/arrest-data
+
+City of Pittsburgh Playgrounds
+https://data.wprdc.org/dataset/playgrounds
+
+
