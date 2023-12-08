@@ -15,5 +15,10 @@ https://data.wprdc.org/dataset/arrest-data
 City of Pittsburgh Playgrounds
 https://data.wprdc.org/dataset/playgrounds
 
-SEONGMIN OH'S NOTEBOOK: seongmin.ipynb
+Seongmin Oh's NOTEBOOK: seongmin.ipynb
 
+Hasaan Ismaeli's NOTEBOOK: hasaan.ipynb
+
+Maliki Mwangi's NOTEBOOK: maliki.ipynb
+
+Overview: This repository is for the Final Project of CMPINFP 0010 to find the best place to raise a family in Pittsburgh, PA.
