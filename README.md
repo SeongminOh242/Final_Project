@@ -13,5 +13,5 @@ https://data.wprdc.org/dataset/arrest-data
 City of Pittsburgh Playgrounds
 https://data.wprdc.org/dataset/playgrounds
 
-SEONGMIN OH'S NOTEBOOK: SEONGMIN.IPYNB
+SEONGMIN OH'S NOTEBOOK: seongmin.ipynb
 
