@@ -17,7 +17,7 @@ https://data.wprdc.org/dataset/playgrounds
 
 Seongmin Oh's NOTEBOOK: seongmin.ipynb
 
-Hasaan Ismaeli's NOTEBOOK: hasaan.ipynb
+Hasaan Ismaeli's NOTEBOOK: Hasaan.ipynb
 
 Maliki Mwangi's NOTEBOOK: maliki.ipynb
 
